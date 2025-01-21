@@ -1,5 +1,5 @@
 {
-    // Launch configurations documentation: https://go.microsoft.com/fwlink/?linkid=830387
+    # Launch documentation: https://github.com/vecnathewhisperd0/dotnet-docker/main/.vscode/launch.json 
     "version": "0.2.0",
     "configurations": [
         {
